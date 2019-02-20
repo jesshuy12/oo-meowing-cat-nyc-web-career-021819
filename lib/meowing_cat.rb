@@ -5,7 +5,7 @@ class Cat
   attr_accessor :name 
 end
 
-def moew
+def moew()
   puts "moew!"
 end
 
